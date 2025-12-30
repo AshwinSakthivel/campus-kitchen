@@ -11,7 +11,7 @@ developed as a collaborative project.
 - Integrated ratings and meal planning logic
 
 ## Team Project
-Original repository hosted by <chinguk>.
+Original repository hosted by chinguk.
 This repository mirrors the project to showcase my contributions.
 
 
